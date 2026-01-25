@@ -14,6 +14,10 @@ public class TestS {
     public static  void test7(){
         System.out.println("new method added in 8th time");
     }
+    public static  void test8(){
+        System.out.println("new method added in 8th time");
+    }
+
 
     public static void test3(){
         System.out.println("second time added new method");
