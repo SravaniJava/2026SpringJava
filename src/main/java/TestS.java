@@ -5,7 +5,7 @@ public class TestS {
 
     }
     public static void test2(){
-        System.out.println("third  time add new method");
+        System.out.println("third  time  chnagining in test2 add new method");
         System.out.println("6th time added");
     }
     public static  void test6(){
