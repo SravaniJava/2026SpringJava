@@ -12,7 +12,7 @@ public class TestS {
         System.out.println("new method added in 6th time");
     }
     public static  void test7(){
-        System.out.println("new method added in 7th time");
+        System.out.println("new method added in 8th time");
     }
 
     public static void test3(){
