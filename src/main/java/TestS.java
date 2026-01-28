@@ -12,10 +12,13 @@ public class TestS {
         System.out.println("new method added in 6th time");
     }
     public static  void test7(){
-        System.out.println("new method added in 8th time");
+        System.out.println("new method added in 7th time");
     }
     public static  void test8(){
         System.out.println("new method added in 8th time");
+    }
+    public static  void test11(){
+        System.out.println("new method added in 11 th time");
     }
 
 
