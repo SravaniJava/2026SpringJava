@@ -5,8 +5,9 @@ public class TestS {
 
     }
     public static void test2(){
-        System.out.println("third times times  time add new method");
+        System.out.println("third  time  chnagining in test2 add new method");
         System.out.println("6th time added");
+        System.out.println("lakjdlak");
     }
     public static  void test6(){
         System.out.println("new method added in 6th time");
@@ -21,6 +22,10 @@ public class TestS {
     public static  void test11(){
         System.out.println("new method added in 11 th time");
         System.out.println("new line addded 31 jan");
+    }
+    public static  void test13(){
+        System.out.println("new method added in 13th 13th time");
+        System.out.println("new line added by jna25sravani");
     }
 
 
