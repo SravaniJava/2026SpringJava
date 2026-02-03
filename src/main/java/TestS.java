@@ -44,6 +44,9 @@ public class TestS {
     public static void test5(){
         System.out.println("this new 5 method");
     }
+    public static void test305(){
+        System.out.println("second time added new method");
+    }
     public static void main(String[] args) {
         System.out.println("this is sravani 2026Test");
         System.out.println("this is Sravani java25 added from jan25 sravani branch");
