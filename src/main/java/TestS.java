@@ -35,7 +35,7 @@ public class TestS {
     }
 
 
-    public static void test3(){
+    public static void test303(){
         System.out.println("second time added new method");
     }
     public static void  test4(){
