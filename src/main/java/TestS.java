@@ -28,10 +28,10 @@ public class TestS {
         System.out.println("new line added by jan25sravani");
     }
     public static  void test14(){
-        System.out.println("new method added in 14th time");
-        System.out.println("new line added by jna25sravani");
-        System.out.println("new method added in 13th del time");
-        System.out.println("new line added by jna25sravani new ");
+        System.out.println("new method added in 14th tim   e");
+        System.out.println("new line added by jna25sravan   i");
+        System.out.println("new method added in 13th del    time");
+        System.out.println("new line added by jna25 sravani new ");
     }
 
 
